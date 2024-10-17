@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Image_Detection",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Image_Detection::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Image_Detection-Release-cd262b353283ab78d95a.json",
+					"name" : "Image_Detection",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Image_Detection_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Image_Detection_autogen-Release-6aafa79e819013b63f29.json",
+					"name" : "Image_Detection_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/ALLCODE/Project_Detection/Image_Detection/cmake-build-release",
+		"source" : "D:/ALLCODE/Project_Detection/Image_Detection"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

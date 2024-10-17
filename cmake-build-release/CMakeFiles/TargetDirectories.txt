@@ -1,0 +1,4 @@
+D:/ALLCODE/Project_Detection/Image_Detection/cmake-build-release/CMakeFiles/Image_Detection.dir
+D:/ALLCODE/Project_Detection/Image_Detection/cmake-build-release/CMakeFiles/edit_cache.dir
+D:/ALLCODE/Project_Detection/Image_Detection/cmake-build-release/CMakeFiles/rebuild_cache.dir
+D:/ALLCODE/Project_Detection/Image_Detection/cmake-build-release/CMakeFiles/Image_Detection_autogen.dir
